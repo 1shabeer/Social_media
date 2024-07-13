@@ -26,7 +26,7 @@ export const Dataprovider = ({children}) =>{
 
    useEffect(()=>{
     setPosts(data);
-    localStorage.getItem("data",JSON.stringify(data))
+    JSON.parse(localStorage.getItem('data'));
    },[data])
 
 

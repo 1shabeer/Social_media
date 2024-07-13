@@ -1,3 +1,22 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "title": "Kerala outing",
+      "datetime": "July 13, 2024 1:51:07 PM",
+      "body": "I went kerala for outing and explore the kerala beach in kovalam\n"
+    },
+    {
+      "id": 2,
+      "title": "Chicken masala",
+      "datetime": "July 13, 2024 2:02:40 PM",
+      "body": "Chicken 200Grems add same masala in the chicken then cook it\nenjoy the chicken masala"
+    },
+    {
+      "id": 3,
+      "title": "Npm package",
+      "datetime": "July 13, 2024 2:05:05 PM",
+      "body": "npm is a package manager for the JavaScript programming language maintained by npm, Inc., a subsidiary of GitHub. npm is the default package manager for the JavaScript runtime environment Node.js and is included as a recommended feature in the Node.js installer."
+    }
+  ]
 }
